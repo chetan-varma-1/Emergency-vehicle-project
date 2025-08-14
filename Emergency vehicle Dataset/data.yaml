@@ -1,0 +1,18 @@
+names:
+- '-'
+- Roboflow is an end-to-end computer vision platform that helps you
+- Special vehicle detection - v2 2024-01-09 v1
+- This dataset was exported via roboflow.com on February 2- 2024 at 4-39 AM GMT
+- ambulance_on
+- firetruck_off
+- object
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: emergency-vehicle-huwpm-spabe
+  url: https://universe.roboflow.com/vijay-kumar-lokanadam-9xieo/emergency-vehicle-huwpm-spabe/dataset/1
+  version: 1
+  workspace: vijay-kumar-lokanadam-9xieo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
